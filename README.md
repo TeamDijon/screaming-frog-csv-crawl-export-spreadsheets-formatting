@@ -1,4 +1,4 @@
-# screaming-frog-crawl-export-spreadsheets-formatting
+# Fast format for Screaming Frog csv Exports on Google Spreadsheets
 
 A spreadsheet coupled with an Google Apps Script in order to automate Screaming Frog crawl csv export formatting
 
